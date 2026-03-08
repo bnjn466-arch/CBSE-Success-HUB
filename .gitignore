@@ -1,0 +1,19 @@
+# Ignore history logs
+*.log
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore build output
+/dist
+
+# Ignore environment variables
+.env
+
+# Ignore coverage directory
+/coverage
+
+# Ignore IDE specific files
+.idea/
+*.swp
+*.swo
